@@ -1,0 +1,10 @@
+This shows how to make the 'height' of the div
+a percentage of the whole area in which the element
+takes up - inclusive of the paddings and border
+(which is not the default)
+
+}
+box-sizing: border-box;
+height: 50%;
+padding: 100px 0;
+}
